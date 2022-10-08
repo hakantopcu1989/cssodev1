@@ -1,0 +1,57 @@
+body {
+    background-color: darkslategrey;
+}
+
+#h1 {
+    background-color: rgb(230, 205, 173);
+    color: lightslategray;
+}
+
+
+#sol   {
+    float: left;
+    width: 13%;
+    height: 100%;
+    background-color: lightblue;
+}
+
+
+#sag {
+    float: right;
+    width: 86%;
+    height: 100%;
+    background-color: bisque;
+}
+
+.button {
+    border:none;
+    color: black;
+    padding: 36px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+
+.button1 {
+    background-color: orangered;
+}
+
+.button2 {
+    background-color: blue;
+}
+
+.button3 {
+    background-color: blueviolet;
+}
+
+.button4 {
+    background-color: yellow;
+}
+
+.button5 {
+    background-color: darkolivegreen;
+}
